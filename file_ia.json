@@ -1,7 +1,7 @@
 {
   "testDNT": {
     "NOT_DNT": "14219.127100 translate",
-    "DNT": "14219.127101 do not translate123"
+    "DNT": "14219.127101 do not translate"
   },
   "DNT": "14219.127102 do not translate",
   "NOT_DNT": "14219.127103 translate"
