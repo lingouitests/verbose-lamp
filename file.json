@@ -1,6 +1,8 @@
 {
-"1":"one2",
-"2":"two",
-"3":"three",
-"4":"four"
+    "testDNT" : {
+        "NOT_DNT": "translate",
+        "DNT" : "do not translate"
+    },
+    "DNT" : "do not translate",
+    "NOT_DNT" : "translate"
 }
